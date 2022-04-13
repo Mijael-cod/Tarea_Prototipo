@@ -29,7 +29,7 @@ header h1 {
     font-style: italic;
 }
 
-#parte1 {
+#lado1 {
     background-color: rgb(59, 59, 59);
     height: 97px;
     width: 1221px;
@@ -37,22 +37,20 @@ header h1 {
     float: left;
 }
 
-#parte1 h2 {
+#lado1 h2 {
     text-align: center;
     line-height: 97px;
     font-style: italic;
-    
 }
-#parte2 {
+#lado2 {
     background-color: rgb(98, 94, 94);
     height: 97px;
     width: 500px;
     float: right;
     margin-top: 10px;
-  
 }
 
-#parte2 h2 {
+#lado2 h2 {
     text-align: center;
     line-height: 97px;
     font-style: italic;
@@ -77,14 +75,11 @@ article h2{
     width: 500px;
     float: right;
     margin-top:10px;
-    
-
 }
 #noticias h2{
     text-align: center;
     line-height: 100px;
     font-style: italic;
-
 }
 #busqueda{
     background-color: rgb(223, 152, 86);
@@ -97,7 +92,6 @@ article h2{
     text-align: center;
     line-height: 204px;
     font-style: italic;
-
 }
 #evento {
     background-color: rgb(211, 68, 128);
