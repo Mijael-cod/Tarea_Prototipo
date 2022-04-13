@@ -17,7 +17,6 @@
 }
 
 header {
-
     width: 1529px;
     height: 150px;
     background: rgb(50, 50, 205);
@@ -111,8 +110,6 @@ article h2{
     text-align: center;
     line-height: 230px;
     font-style: italic;
-
-
 }
 footer{
     background-color: rgb(10, 129, 227);
@@ -120,12 +117,9 @@ footer{
     width: 1729px;
     float: right;
     margin-top:10px;
-
 }
 footer h2{
     text-align: center;
     line-height: 97px;
     font-style: italic;
-    
-
 }
