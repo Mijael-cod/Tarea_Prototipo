@@ -1,0 +1,133 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#container {
+    width: 1729px;
+    height: 979px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#contenedor2 {
+    height: 150px;
+    width: 1729px;
+
+}
+
+header {
+
+    width: 1529px;
+    height: 150px;
+    background: rgb(50, 50, 205);
+    float: right;
+
+}
+
+header h1 {
+    text-align: center;
+    line-height: 150px;
+    font-style: italic;
+}
+
+#parte1 {
+    background-color: rgb(59, 59, 59);
+    height: 97px;
+    width: 1121px;
+    margin-top: 10px;
+    float: left;
+}
+
+#parte1 h2 {
+    text-align: center;
+    line-height: 97px;
+    font-style: italic;
+    
+}
+#parte2 {
+    background-color: rgb(98, 94, 94);
+    height: 97px;
+    width: 600px;
+    float: right;
+    margin-top: 10px;
+  
+}
+
+#parte2 h2 {
+    text-align: center;
+    line-height: 97px;
+    font-style: italic;
+}
+article{
+    background-color: blanchedalmond;
+    height: 532px;
+    width: 1121px;
+    float: left;
+    margin-top: 10px;
+}
+
+article h2{
+    text-align: center;
+    line-height: 500px;
+    font-style: italic;
+}
+
+#noticias{
+    background-color: rgb(46, 236, 172);
+    height: 97px;
+    width: 600px;
+    float: right;
+    margin-top:10px;
+    
+
+}
+#noticias h2{
+    text-align: center;
+    line-height: 100px;
+    font-style: italic;
+
+}
+#busqueda{
+    background-color: rgb(223, 152, 86);
+    height: 204px;
+    width: 600px;
+    float: right;
+    margin-top:10px;
+}
+#busqueda h2{
+    text-align: center;
+    line-height: 204px;
+    font-style: italic;
+
+}
+#evento {
+    background-color: rgb(211, 68, 128);
+    height: 211px;
+    width: 600px;
+    float: right;
+    margin-top:10px;
+}
+#evento h2{
+    text-align: center;
+    line-height: 230px;
+    font-style: italic;
+
+
+}
+footer{
+    background-color: rgb(10, 129, 227);
+    height: 97px;
+    width: 1729px;
+    float: right;
+    margin-top:10px;
+
+}
+footer h2{
+    text-align: center;
+    line-height: 97px;
+    font-style: italic;
+    
+
+}
